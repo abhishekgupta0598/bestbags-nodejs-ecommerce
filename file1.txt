@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is branch1
+=======
+it is newbranchhhhhhhhhhhhhhh
+>>>>>>> cdbfbe46d6d23eaee6f2a56cae2de3ead7880598
