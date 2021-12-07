@@ -1,5 +1,5 @@
 let middlewareObject = {};
-
+// adding content from branch1
 //a middleware to check if a user is logged in or not
 middlewareObject.isNotLoggedIn = (req, res, next) => {
   if (!req.isAuthenticated()) {
